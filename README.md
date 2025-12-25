@@ -20,6 +20,13 @@ As a junior data analyst on Cyclistic’s marketing analytics team, I was respon
 - Casual riders take longer rides on weekends.
 - Clear opportunity for membership conversion.
 
+## Dataset Information
+- The dataset used in this project is Cyclistic’s historical bike-share trip data.
+- Due to file size limitations, the raw and cleaned datasets are not included in this repository.
+- The data is publicly available and can be downloaded from the original source.
+- After downloading, the data was cleaned and prepared using R before analysis and visualization.
+- Source: https://divvy-tripdata.s3.amazonaws.com/index.html
+
 ## Dashboard
 🔗 Tableau Public Link: https://public.tableau.com/views/Cyclisticbike-shareanalysis-Capstone/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
