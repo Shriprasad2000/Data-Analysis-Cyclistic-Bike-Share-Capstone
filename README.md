@@ -30,10 +30,8 @@ As a junior data analyst on Cyclistic’s marketing analytics team, I was respon
 ## Dashboard
 🔗 Tableau Public Link: https://public.tableau.com/views/Cyclisticbike-shareanalysis-Capstone/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-![Dashboard Overview](visuals/Dashboard 1.png)
-
-
-## Recommendations
-- Weekend membership promotions
-- Flexible membership plans
-- Targeted marketing for casual riders
+## Dashboard
+### Dashboard
+![Dashboard1](Dashboard1.png)
+![Dashboard2](Dashboard2.png)
+![Dashboard3](Dashboard3.png)
