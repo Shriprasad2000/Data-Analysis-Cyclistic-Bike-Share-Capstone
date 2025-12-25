@@ -1,6 +1,6 @@
-# Cyclistic Bike-Share Analysis
+# Case study - Cyclistic Bike-Share Analysis :bicyclist:
 
-## Overview
+## Overview - (Google Data Analytics course - Coursera)
 Cyclistic launched its bike-share program in 2016 and has since grown to a fleet of 5,824 geotracked bicycles across 692 stations in Chicago, allowing bikes to be picked up at one station and returned to any other within the network. The company offers flexible pricing plans, including single-ride passes, full-day passes, and annual memberships, categorizing users as casual riders and annual members.
 
 Financial analysis indicates that annual members are more profitable than casual riders, making membership growth essential for Cyclistic’s future. Rather than targeting only new customers, the company aims to convert existing casual riders into annual members by better understanding how rider types differ. To support this goal, Cyclistic analyzes historical bike trip data to identify trends that can inform effective marketing strategies.
