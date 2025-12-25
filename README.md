@@ -1,2 +1,29 @@
-# Data-Analysis---Cyclistic-Bike-Share-Capstone
-Google Data Analytics Capstone project analysing Cyclistic bike-share data to compare annual members and casual riders using R and Tableau.
+# Cyclistic Bike-Share Analysis
+
+## Overview
+Cyclistic launched its bike-share program in 2016 and has since grown to a fleet of 5,824 geotracked bicycles across 692 stations in Chicago, allowing bikes to be picked up at one station and returned to any other within the network. The company offers flexible pricing plans, including single-ride passes, full-day passes, and annual memberships, categorizing users as casual riders and annual members.
+
+Financial analysis indicates that annual members are more profitable than casual riders, making membership growth essential for Cyclistic’s future. Rather than targeting only new customers, the company aims to convert existing casual riders into annual members by better understanding how rider types differ. To support this goal, Cyclistic analyzes historical bike trip data to identify trends that can inform effective marketing strategies.
+
+## Business Problem
+Cyclistic wants to grow revenue by converting casual riders into annual members, as members are more profitable. To support targeted marketing strategies, the company needs to understand how annual members and casual riders use Cyclistic bikes differently by analyzing historical trip data.
+
+## Role and Responsibility
+As a junior data analyst on Cyclistic’s marketing analytics team, I was responsible for uncovering insights into how casual riders and annual members use Cyclistic bikes differently. My role included data cleaning, analysis, visualization, and communicating findings to support strategies aimed at converting casual riders into annual members.
+
+## Tools Used
+- R (data cleaning & analysis)
+- Tableau (data visualization & dashboarding)
+
+## Key Insights
+- Members dominate weekday usage with short trips.
+- Casual riders take longer rides on weekends.
+- Clear opportunity for membership conversion.
+
+## Dashboard
+🔗 Tableau Public Link: https://public.tableau.com/views/Cyclisticbike-shareanalysis-Capstone/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+## Recommendations
+- Weekend membership promotions
+- Flexible membership plans
+- Targeted marketing for casual riders
