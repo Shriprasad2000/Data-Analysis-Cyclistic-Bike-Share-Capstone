@@ -32,6 +32,6 @@ As a junior data analyst on Cyclistic’s marketing analytics team, I was respon
 
 ## Dashboard
 ### Dashboard
-![Dashboard1](Dashboard1.png)
+![Dashboard1](visuals/Dashboard1.png)
 ![Dashboard2](Dashboard2.png)
 ![Dashboard3](Dashboard3.png)
