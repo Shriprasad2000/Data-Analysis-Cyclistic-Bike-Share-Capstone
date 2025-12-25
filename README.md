@@ -27,7 +27,7 @@ As a junior data analyst on Cyclistic’s marketing analytics team, I was respon
 - After downloading, the data was cleaned and prepared using R before analysis and visualization.
 - Source: https://divvy-tripdata.s3.amazonaws.com/index.html
 
-## Dashboard Design Source
+## Dashboard
 🔗 Tableau Public Link: https://public.tableau.com/views/Cyclisticbike-shareanalysis-Capstone/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ![Dashboard1](visuals/Dashboard1.png)
