@@ -2,7 +2,7 @@
 
 ## Coursera - Google Data Analytics course certification
 This case study was completed as part of the **[Google Data Analytics Professional Certificate](https://coursera.org/share/4d89e57d93da010c359d6d7a4ff14bca)** capstone project.
-🔗 Link: [Coursera Capstone Certificate](https://coursera.org/share/d819e6b1734d2e0629d5e6ed3c454df8)
+Link: [Coursera Capstone Certificate](https://coursera.org/share/d819e6b1734d2e0629d5e6ed3c454df8)
 
 ## Overview 
 Cyclistic launched its bike-share program in 2016 and has since grown to a fleet of 5,824 geotracked bicycles across 692 stations in Chicago, allowing bikes to be picked up at one station and returned to any other within the network. The company offers flexible pricing plans, including single-ride passes, full-day passes, and annual memberships, categorizing users as casual riders and annual members.
